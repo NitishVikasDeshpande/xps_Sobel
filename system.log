@@ -1,0 +1,141 @@
+Xilinx Platform Studio (XPS)
+Xilinx EDK 14.7 Build EDK_P.20131013
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+ERROR:EDK:908 - Could not open /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/system.make for writing Makefile
+ERROR:EDK:908 - Could not open /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/system.make for writing Makefile
+ERROR:EDK:908 - Could not open /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/system.make for writing Makefile
+Writing filter settings....
+Done writing filter settings to:
+	/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/etc/system.filters
+Done writing Tab View settings to:
+	/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/etc/system.gui
+Xilinx Platform Studio (XPS)
+Xilinx EDK 14.7 Build EDK_P.20131013
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+
+********************************************************************************
+At Local date and time: Sun Jul  8 23:05:04 2018
+ make -f system.make exporttosdk started...
+make: Nothing to be done for 'exporttosdk'.
+Done!
+Xilinx Platform Studio (XPS)
+Xilinx EDK 14.7 Build EDK_P.20131013
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  *************************************************************
+WARNING:EDK -  ** To get full timing path analysis when using asynchronous *
+WARNING:EDK -  ** LUTRAM FSL FIFO (C_ASYNC_CLKS = 1, C_IMP_STYLE = 0)      *
+WARNING:EDK -  ** include "ENABLE=sr_reg_o;" in the top level UCF file.    *
+WARNING:EDK -  *************************************************************
+
+********************************************************************************
+At Local date and time: Sun Jul  8 23:31:42 2018
+ make -f system.make clean started...
+rm -f implementation/system.ngc
+rm -f implementation/system_microblaze_0_wrapper.ngc implementation/system_mb_plb_wrapper.ngc implementation/system_ilmb_wrapper.ngc implementation/system_dlmb_wrapper.ngc implementation/system_dlmb_cntlr_wrapper.ngc implementation/system_ilmb_cntlr_wrapper.ngc implementation/system_lmb_bram_wrapper.ngc implementation/system_rs232_uart_1_wrapper.ngc implementation/system_ddr2_sdram_wrapper.ngc implementation/system_clock_generator_0_wrapper.ngc implementation/system_mdm_0_wrapper.ngc implementation/system_proc_sys_reset_0_wrapper.ngc implementation/system_readcop_0_to_microblaze_0_wrapper.ngc implementation/system_microblaze_0_to_readcop_0_wrapper.ngc implementation/system_sobelcop_0_to_microblaze_0_wrapper.ngc implementation/system_microblaze_0_to_sobelcop_0_wrapper.ngc implementation/system_vgain_0_to_microblaze_0_wrapper.ngc implementation/system_vgain_0_wrapper.ngc implementation/system_microblaze_0_to_vgain_0_wrapper.ngc implementation/system_readcop_0_wrapper.ngc implementation/system_sobelcop_0_wrapper.ngc
+rm -f platgen.log
+rm -f __xps/ise/_xmsgs/platgen.xmsgs
+rm -f implementation/system.bmm
+rm -rf implementation/cache
+rm -f implementation/system.bit
+rm -f implementation/system.ncd
+rm -f implementation/system_bd.bmm 
+rm -f implementation/system_map.ncd 
+rm -f implementation/download.bit 
+rm -f __xps/system_bits
+rm -rf implementation synthesis xst hdl
+rm -rf xst.srp system.srp
+rm -f __xps/ise/_xmsgs/bitinit.xmsgs
+rm -rf __xps/ps7_instance.mhs
+rm -rf simulation/behavioral
+rm -f simgen.log
+rm -f __xps/ise/_xmsgs/simgen.xmsgs
+rm -f _impact.cmd
+Done!
